@@ -10,6 +10,7 @@
 #include <stdio.h>
 #include <tchar.h>
 
+#define _USE_MATH_DEFINES
 
 
 // TODO: reference additional headers your program requires here
